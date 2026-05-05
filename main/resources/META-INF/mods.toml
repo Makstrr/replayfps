@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="replayfps"
+version="1.0.0"
+displayName="ReplayFPS"
+description="Forged version of ReplayFPS mod by igrium"
+
+[[mixins]]
+config="replayfps.mixins.json"
